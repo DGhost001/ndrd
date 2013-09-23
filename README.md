@@ -4,7 +4,7 @@ NDRD - Neighbour Discovery Response Daemon
 Legal
 ------
 ndrd - Neighbour Discovery Response Daemon
-Copyright (C) 2013  Falk Ahlendorf <falk.ahlendorf@googlemail.com>
+Copyright (C) 2013  Falk Ahlendorf
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -97,6 +97,7 @@ Copy the resulting executable onto your router and start it with the prefix
 provided by your ISP as first argument
 
 Like so:
+
     /tmp/ndrd 1234:abcd:6789:ef::/64
 
 Website
